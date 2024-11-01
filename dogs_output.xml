@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<doglist>
+    <dog award="Лучший в породе" breed="Немецкая овчарка" judge="Петров П.П." name="Рекс" owner="Иванов И.И."/>
+    <dog award="Нет наград" breed="Доберман" judge="Николаев Н.Н." name="Барон" owner="Сидорова А.А."/>
+    <dog award="Чемпион" breed="Колли" judge="Кузнецов К.К." name="Лесси" owner="Смирнова А.А."/>
+</doglist>
